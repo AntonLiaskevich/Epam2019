@@ -10,8 +10,8 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        Toast.makeText(getApplicationContext(), "first feature1", Toast.LENGTH_LONG).show();
-        Toast.makeText(getApplicationContext(), "first feature1", Toast.LENGTH_LONG).show();
+        Toast.makeText(getApplicationContext(), "first feature2", Toast.LENGTH_LONG).show();
+        Toast.makeText(getApplicationContext(), "second feature2", Toast.LENGTH_LONG).show();
     }
 
 }
