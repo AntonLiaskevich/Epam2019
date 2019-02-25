@@ -1,3 +1,7 @@
 [submodule "Calculator"]
 	path = Calculator
 	url = https://github.com/AntonLiaskevich/Calculator.git
+[submodule "submodule"]
+	path = submodule
+	url = https://github.com/AntonLiaskevich/submodule.git
+
